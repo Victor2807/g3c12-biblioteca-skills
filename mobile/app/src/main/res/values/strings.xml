@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Saludo</string>
+    <string name="greeting">¡Hola, %1$s!</string>
+    <string name="name_label">Escribe tu nombre</string>
+    <string name="clear">Borrar</string>
+    <string name="error_loading">Error al cargar los datos: %1$s</string>
+</resources>
